@@ -4,7 +4,7 @@ import java.lang.Math;
 public class Main {
 
     public static void main(String[] args) {
-
+        System.out.println("==========Basic Calculator =========");
         //Basic Calculator
             Calculator sum = new Calculator();
             Calculator substract = new Calculator();
